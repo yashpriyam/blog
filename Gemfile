@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'social-share-button', '~> 1.2'
 
 # Use ActiveModel has_secure_password
